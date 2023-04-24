@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+* {
+	/* font used by entire webpage for consistency */
+	font-family: 'Quicksand', sans-serif;
+	font-weight: lighter;
+	box-sizing: border-box;
+    text-align: center;
+}
+
+body, html {
+	/* body has 100% of the browser height */
+	height: 100%
+}
+
+.navbar {
+    padding: 10px;
+}
+
+form {
+    display: inline-block;
+}
+
+.container {
+    padding: 50px
+}
